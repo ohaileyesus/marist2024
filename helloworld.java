@@ -4,7 +4,7 @@ public class HelloWorld
     {
         System.out.println("Hello maristians. Scola Brevis");
         for (int i = 0; i < 3; i++){
-            System.out.println("purple");
+            System.out.println("lebron");
         }
     }
 };
